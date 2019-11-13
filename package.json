@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "sudo pm2 start server.js"
+    "start": "pm2 && sudo pm2 start server.js"
   },
   "keywords": [],
   "author": "",
